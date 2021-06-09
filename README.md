@@ -11,4 +11,4 @@
 <li>JQuery</li>
 </ul>
 
-<img src="/imgs/TelaDoJogo.png" alt="">
+<<img src="/imgs/TelaDoJogo.png" alt="">
